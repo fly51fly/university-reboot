@@ -6,9 +6,7 @@
 
 ### 在人工智能时代，学会学习、独立思考与自主成长
 
-<img src="./assets/cover.jpg" alt="《大学重启》封面 · 待更新" width="300" />
-
-<sub>封面待发布 · 图片位置：assets/cover.jpg</sub>
+<img src="./assets/cover.jpg" alt="《大学重启》封面" width="300" />
 
 </div>
 
