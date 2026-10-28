@@ -53,7 +53,7 @@
 | **序章** · 当答案不再稀缺：为什么我们需要重新思考大学？ | [在线阅读][feishu-00] | [PPT](http://aicoco.net/pages/university-reboot_00.html) | 已发布 |
 | **第一篇 · 理解时代** | | | |
 | 第一章 · 大学究竟意味着什么：从优秀学生到独立的成年人 | [在线阅读][feishu-01] | [PPT](http://aicoco.net/pages/university-reboot_01.html)  | 已发布 |
-| 第二章 · AI来了，人的价值在哪里：理解我们正在进入的时代 | - | - | 即将发布 |
+| 第二章 · AI来了，人的价值在哪里：理解我们正在进入的时代 | [在线阅读][feishu-02] | [PPT](http://aicoco.net/pages/university-reboot_02.html)  | 已发布 |
 | **第二篇 · 重建学习** | | | |
 | 第三章 · 学会学习，比记住答案更重要 | - | - | 即将发布 |
 | 第四章 · 从听课到研究：进入知识创造的现场 | - | - | 即将发布 |
@@ -84,7 +84,7 @@
 
 [feishu-00]: https://k5tos1p99x.feishu.cn/wiki/PQmdwn2hviIq98kkVkMcwK46nDg?from=from_copylink
 [feishu-01]: https://k5tos1p99x.feishu.cn/wiki/BUyuwGzqriBph3k5QwFc5l1PnkE?from=from_copylink
-[feishu-02]: https://your-workspace.feishu.cn/wiki/REPLACE_CH02
+[feishu-02]: https://k5tos1p99x.feishu.cn/wiki/WcC1wKjqEitbSgkKyIVcKrJtnue?from=from_copylink
 [feishu-03]: https://your-workspace.feishu.cn/wiki/REPLACE_CH03
 [feishu-04]: https://your-workspace.feishu.cn/wiki/REPLACE_CH04
 [feishu-05]: https://your-workspace.feishu.cn/wiki/REPLACE_CH05
