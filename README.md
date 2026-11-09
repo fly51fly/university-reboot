@@ -56,7 +56,7 @@
 | 第二章 · AI来了，人的价值在哪里：理解我们正在进入的时代 | [在线阅读][feishu-02] | [金句卡片](http://aicoco.net/pages/university-reboot_cards_02.html) | [PPT](http://aicoco.net/pages/university-reboot_02.html)  | 已发布 |
 | **第二篇 · 重建学习** | | | | |
 | 第三章 · 学会学习，比记住答案更重要 | [在线阅读][feishu-03] | [金句卡片](http://aicoco.net/pages/university-reboot_cards_03.html) | [PPT](http://aicoco.net/pages/university-reboot_03.html) | 已发布 |
-| 第四章 · 从听课到研究：进入知识创造的现场 | - | - | - | 即将发布 |
+| 第四章 · 从听课到研究：进入知识创造的现场 | [在线阅读][feishu-04] | [金句卡片](http://aicoco.net/pages/university-reboot_cards_04.html) | [PPT](http://aicoco.net/pages/university-reboot_04.html) | 已发布 |
 | 第五章 · 独立思考：在算法与信息洪流中保持清醒 | - | - | - | 即将发布 |
 | **第三篇 · 成为自己** | | | | |
 | 第六章 · 认识自己：在不确定中寻找方向 | - | - | - | 即将发布 |
@@ -86,7 +86,7 @@
 [feishu-01]: https://k5tos1p99x.feishu.cn/wiki/BUyuwGzqriBph3k5QwFc5l1PnkE?from=from_copylink
 [feishu-02]: https://k5tos1p99x.feishu.cn/wiki/WcC1wKjqEitbSgkKyIVcKrJtnue?from=from_copylink
 [feishu-03]: https://k5tos1p99x.feishu.cn/wiki/XV0owbrCriuYmukNHjNcJ3SsnJd?from=from_copylink
-[feishu-04]: https://your-workspace.feishu.cn/wiki/REPLACE_CH04
+[feishu-04]: https://k5tos1p99x.feishu.cn/wiki/OLwRwkjPYi4PGWkVRMfcbOthnbg?from=from_copylink
 [feishu-05]: https://your-workspace.feishu.cn/wiki/REPLACE_CH05
 [feishu-06]: https://your-workspace.feishu.cn/wiki/REPLACE_CH06
 [feishu-07]: https://your-workspace.feishu.cn/wiki/REPLACE_CH07
